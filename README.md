@@ -1,15 +1,15 @@
-# Project
-# Analysis
-## Research
-### Scope
+# Project Name
+# I. Analysis
+## 1. Research
+### a. Scope
 1. objectives
-
-### Audit
+*Let the user explore the playfulness of human-computer interaction.*
+### b. Audit
 1. *Business and marketing plans*
 
 2. *branding strategy*
 
-3. market research 
+3. market/field research 
 
 4. *product portfolio plans* 
 
@@ -17,19 +17,21 @@
 
 6. relevant technologies 
 
-### Stakeholder Interviews
+### c. Stakeholder Interviews
 1. product{project} vision 
 
-2. risk 
+2. risk
 
 3. constraints 
 
 4. opportunities 
+	5. In spite of the obstacles we have this project has strength from a), b), c), ….  
 
 5. users 
 
-### User Interviews & observations
+### d. User Interviews & observations
 Understand user needs and behavior and describe it.
+Find various aspect of audience/customer
  
 1. Users
 
@@ -40,6 +42,7 @@ Understand user needs and behavior and describe it.
 4. attitudes
 
 5. aptitudes
+	- users’s ability to learn sth quickly and do it well
 
 6. motivations
 
@@ -49,15 +52,16 @@ Understand user needs and behavior and describe it.
 
 9. challenges
 
-## Modeling
-### Personas
-1. Patterns in user and customer behaviors
+## 2. Modeling
+### a. Personas
 
-2. attitudes
+1. **goals**
 
-3. aptitudes
+2. Patterns in user and customer behaviors
 
-4. **goals**
+3. attitudes
+
+4. aptitudes
 
 5. environments
 
@@ -65,17 +69,17 @@ Understand user needs and behavior and describe it.
 
 7. challenges
 
-### Other Models
+### b. Other Models
 1. Workflows among multiple people
 
 2. environments
 
 3. artifacts
-# Synthesis
-## Requirements Definition
-### Context Scenarios
+# II. Synthesis
+## 3. Requirements Definition
+### a. Context Scenarios
 A description on how the product fits into the persona’s life and environment, and how it helps them achieve their goals
-### Requirements
+### b. Requirements
 1. Functional and data needs
 
 2. user mental models
@@ -88,8 +92,8 @@ A description on how the product fits into the persona’s life and environment,
 
 6. technology
 
-## Design Framework
-### Elements
+## 4. Design Framework
+### a. Elements
 1. Information
 
 2. functions
@@ -100,13 +104,13 @@ A description on how the product fits into the persona’s life and environment,
 
 5. domain object models
 
-### Framework
+### b. Framework
 1. Object relationships
 2. Conceptual groupings
 3. Navigation sequencing
 4. Principles and patterns
 5. Floor Plan
-- flow
-- sketches
-- storyboards
-### Key Path and Validation Scenarios
+	6. flow
+	7. sketches
+	8. storyboards
+### c. Key Path and Validation Scenarios
