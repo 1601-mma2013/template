@@ -1,6 +1,5 @@
-{{TOC}}
-
 # Project
+# Analysis
 ## Research
 ### Scope
 1. objectives
@@ -72,7 +71,7 @@ Understand user needs and behavior and describe it.
 2. environments
 
 3. artifacts
-
+# Synthesis
 ## Requirements Definition
 ### Context Scenarios
 A description on how the product fits into the persona’s life and environment, and how it helps them achieve their goals
@@ -103,9 +102,9 @@ A description on how the product fits into the persona’s life and environment,
 
 ### Framework
 1. Object relationships
-2. conceptual groupings
-3. navigation sequencing
-4. principles and patterns
+2. Conceptual groupings
+3. Navigation sequencing
+4. Principles and patterns
 5. Floor Plan
 - flow
 - sketches
