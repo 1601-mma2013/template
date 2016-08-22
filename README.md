@@ -1,11 +1,9 @@
 # Project
-## research
-### title
-
+## Research
 ### Scope
 1. objectives
 
-#### Audit
+### Audit
 1. *Business and marketing plans*
 
 2. *branding strategy*
@@ -18,7 +16,7 @@
 
 6. relevant technologies 
 
-##### Stakeholder Interviews
+### Stakeholder Interviews
 1. product{project} vision 
 
 2. risk 
@@ -29,8 +27,9 @@
 
 5. users 
 
-##### User Interviews & observations
-Understand user needs and behavior and describe it. 
+### User Interviews & observations
+Understand user needs and behavior and describe it.
+ 
 1. Users
 
 2. potential users
@@ -49,8 +48,8 @@ Understand user needs and behavior and describe it.
 
 9. challenges
 
-### Modeling
-#### Personas
+## Modeling
+### Personas
 1. Patterns in user and customer behaviors
 
 2. attitudes
@@ -64,17 +63,17 @@ Understand user needs and behavior and describe it.
 6. tools
 
 7. challenges
-#### Other Models
+### Other Models
 1. Workflows among multiple people
 
 2. environments
 
 3. artifacts
 
-### Requirements Definition
-#### Context Scenarios
+## Requirements Definition
+### Context Scenarios
 A description on how the product fits into the persona’s life and environment, and how it helps them achieve their goals
-#### Requirements
+### Requirements
 1. Functional and data needs
 
 2. user mental models
