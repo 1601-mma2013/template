@@ -7,7 +7,9 @@ This document is written markdown syntax. To edit this document teach yourself [
 ## 1. Research
 ### a. Scope
 1. objectives
+
 *Let the user explore the playfulness of human-computer interaction.*
+
 ### b. Audit
 1. *Business and marketing plans*
 
