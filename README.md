@@ -1,3 +1,7 @@
+**You are required to complete Section I. Analysis by 29th August. **
+
+This document is written markdown syntax. To edit this document teach yourself [how to use markdown](https://en.support.wordpress.com/markdown-quick-reference/). You can use any existing markdown editors ([1](https://www.typora.io), [2](http://code52.org/DownmarkerWPF/)) from your local machine and then sync through Github desktop. 
+
 # Project Name
 # I. Analysis
 ## 1. Research
