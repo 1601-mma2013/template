@@ -1,3 +1,5 @@
+{{TOC}}
+
 # Project
 ## Research
 ### Scope
@@ -63,6 +65,7 @@ Understand user needs and behavior and describe it.
 6. tools
 
 7. challenges
+
 ### Other Models
 1. Workflows among multiple people
 
@@ -85,3 +88,26 @@ A description on how the product fits into the persona’s life and environment,
 5. business requirements
 
 6. technology
+
+## Design Framework
+### Elements
+1. Information
+
+2. functions
+
+3. mechanisms
+
+4. actions
+
+5. domain object models
+
+### Framework
+1. Object relationships
+2. conceptual groupings
+3. navigation sequencing
+4. principles and patterns
+5. Floor Plan
+- flow
+- sketches
+- storyboards
+### Key Path and Validation Scenarios
