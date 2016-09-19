@@ -1,6 +1,8 @@
 **You are required to complete Section I. Analysis by 2nd September. **
 
-Goal; observe & describe.
+Goal; Observe & describe in informative in simple and precise way.
+
+the 
 
 This document is written markdown syntax. To edit this document teach yourself [how to use markdown](https://en.support.wordpress.com/markdown-quick-reference/). You can use any existing markdown editors ([1](https://www.typora.io), [2](http://code52.org/DownmarkerWPF/)) from your local machine and then sync through Github desktop. 
 
@@ -90,43 +92,55 @@ Represent domain factors beyond individual users and customers
 # II. Synthesis
 ## 3. Requirements Definition
 ### a. Context Scenarios
-A description on how the product fits into the persona’s life and environment, and how it helps them achieve their goals by telling the narrative about ideal user experiences
+A sample context scenario
+
+The following is the first iteration of a context scenario for a primary persona for a personal digital assistant (PDA) type phone, including both the device and its service. Our persona is Vivien Strong, a real-estate agent in Indianapolis, whose goals are to balance work and home life, close the deal, and make each client feel like he or she is her only client.
+
+Here is Vivien’s context scenario:
+
+1. While getting ready in the morning, Vivien uses her phone to check her e-mail. Because it has a relatively large screen and quick connection time, it’s more convenient than booting up a computer as she rushes to make her daughter, Alice, a sandwich for school.
+2. Vivien sees an e-mail from her newest client, Frank, who wants to look at a house this afternoon. The device has his contact info, so she can call him with a simple action right from the e-mail.
+3. While on the phone with Frank, Vivien switches to speakerphone so she can view the screen while talking. She looks at her appointments to see when she’s free. When she creates a new appointment, the phone automatically makes it an appointment with Frank, because it knows with whom she is talking. She quickly enters the address of the property into the appointment as she finishes her conversation.
+4. After sending Alice to school, Vivien heads into the real-estate office to gather some papers for another appointment. Her phone has already updated her Outlook appointments, so the rest of the office knows where she’ll be in the afternoon.
+5. The day goes by quickly, and eventually Vivien is running a bit late. As she heads toward the property she’ll be showing Frank, the phone alerts her that her appointment is in 15 minutes. When she flips open the phone, she sees not only the appointment, but also a list of all documents related to Frank, including e-mails, memos, phone messages, and call logs to Frank’s number. Vivien initiates a call, and the phone automatically connects to Frank because it knows her appointment with him is soon. She lets him know she’ll be there in 20 minutes.
+6. Vivien knows the address of the property but is unsure exactly where it is. She pulls over and taps the address she put into the appointment. The phone downloads directions along with a thumbnail map showing her location relative to the destination.
+7. Vivien gets to the property on time and starts showing it to Frank. She hears the phone ring from her purse. Normally while she is in an appointment, the phone automatically goes to voicemail, but Alice has a code she can press to get through. The phone knows it’s Alice calling, so it uses a distinctive ringtone.
+8. Vivien takes the call. Alice missed the bus and needs to be picked up. Vivien calls her husband to see if he can do it. She gets his voicemail; he must be out of service range. She tells him she’s with a client and asks if he can get Alice. Five minutes later the phone sounds a brief tone. Vivien recognizes it as her husband’s; she sees he’s sent her an instant message: “I’ll get Alice; good luck on the deal!”
+
+Notice how the scenario remains at a fairly high level, without getting too specific about interfaces or technologies. It’s important to create scenarios that are within the realm of technical possibility, but at this stage the details of reality are unimportant. We want to leave the door open for truly novel solutions, and it’s always possible to scale back; we are ultimately trying to describe an optimal, yet still feasible, experience. Also notice how the activities in the scenario tie back to Vivien’s goals and try to eliminate as many tasks as possible.
 ### b. Requirements
 Describe necessary capabilities of the product
-1. Functional and data needs
+- Functional and data needs
 
-2. user mental models
+- user mental models
 
-3. design imperatives
+- design imperatives
+- 
+- product vision
 
-4. product vision
+- business requirements
 
-5. business requirements
-
-6. technology
+- technology
 
 ## 4. Design Framework
 ### a. Elements
 Deﬁne manifestations of information and functionality
 1. Information
+	2. form factor
+	3. posture
+	4. input method
 
-2. functions
-
-3. mechanisms
-
-4. actions
-
-5. domain object models
+2. functional and data elements
 
 ### b. Framework
 Design overall structure of user experience
-1. Object relationships
-2. Conceptual groupings
-3. Navigation sequencing
-4. Principles and patterns
-5. Floor Plan
-	6. flow
-	7. sketches
-	8. storyboards
-### c. Key Path and Validation Scenarios
-Describe how the persona interacts with the product
+1. Sketch
+	2. if your project is a design product
+		- Your sketch must be a wireframe.
+	1. if your project is a installation project
+		- Your sketch must be a installation sketch.
+	6. must shows
+		7. groupings and hierarchy
+		8. Territories of each functional & design elements
+		9. Arrangements of containers & components
+10. Key path Scenario
