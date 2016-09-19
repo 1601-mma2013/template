@@ -90,7 +90,7 @@ Represent domain factors beyond individual users and customers
 
 3. artifacts
 # II. Synthesis
-## 3. Requirements Definition
+## 1. Requirements Definition
 ### a. Context Scenarios
 A sample context scenario
 
@@ -122,7 +122,7 @@ Describe necessary capabilities of the product
 
 - technology
 
-## 4. Design Framework
+## 2. Design Framework
 ### a. Elements
 Deﬁne manifestations of information and functionality
 1. Information
@@ -131,6 +131,11 @@ Deﬁne manifestations of information and functionality
 	4. input method
 
 2. functional and data elements
+	- information
+	- functions
+	- mechanisms
+	- actions
+	- domain object models
 
 ### b. Framework
 Design overall structure of user experience
