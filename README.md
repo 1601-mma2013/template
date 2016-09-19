@@ -134,6 +134,7 @@ Deﬁne manifestations of information and functionality
 
 ### b. Framework
 Design overall structure of user experience
+
 1. Sketch
 	1. if your project is a design product
 		1. Your sketch must be a wireframe.
