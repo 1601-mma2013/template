@@ -135,12 +135,12 @@ Deﬁne manifestations of information and functionality
 ### b. Framework
 Design overall structure of user experience
 1. Sketch
-	2. if your project is a design product
-		- Your sketch must be a wireframe.
-	1. if your project is a installation project
-		- Your sketch must be a installation sketch.
-	6. must shows
-		7. groupings and hierarchy
-		8. Territories of each functional & design elements
-		9. Arrangements of containers & components
-10. Key path Scenario
+	1. if your project is a design product
+		1. Your sketch must be a wireframe.
+	2. if your project is a installation project
+		1. Your sketch must be a installation sketch.
+	3. Must have
+		1. groupings and hierarchy
+		2. Territories of each functional & design elements
+		3. Arrangements of containers & components
+2. Key path Scenario
