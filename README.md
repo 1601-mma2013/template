@@ -111,15 +111,10 @@ Notice how the scenario remains at a fairly high level, without getting too spec
 ### b. Requirements
 Describe necessary capabilities of the product
 - Functional and data needs
-
 - user mental models
-
 - design imperatives
-- 
 - product vision
-
 - business requirements
-
 - technology
 
 ## 2. Design Framework
